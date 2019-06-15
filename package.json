@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "bootcamp de node, react e react-native",
+  "main": "index.js",
+  "repository": "https://github.com/marianesantana/bootcamp.git",
+  "author": "Mariane <a.marianesantana@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.0",
+    "nodemon": "^1.19.1"
+  }
+}
